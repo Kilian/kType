@@ -1,0 +1,35 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ktype/spritemanager.cs" ctype="Workbench">
+    <Files>
+      <File FileName="Ktype/Game1.cs" Line="19" Column="5" />
+      <File FileName="Ktype/Program.cs" Line="5" Column="5" />
+      <File FileName="Ktype/scrollingBackground.cs" Line="33" Column="92" />
+      <File FileName="Ktype/Sprite.cs" Line="40" Column="52" />
+      <File FileName="Ktype/movingSprite.cs" Line="11" Column="5" />
+      <File FileName="Ktype/usership.cs" Line="12" Column="5" />
+      <File FileName="Ktype/spritemanager.cs" Line="56" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Ktype" expanded="True">
+            <Node name="spritemanager.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True">
+          <Node name="Ktype" expanded="True">
+            <Node name="Ktype" expanded="True">
+              <Node name="Ktype.spritemanager" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" ctype="Workspace" />
+</Properties>

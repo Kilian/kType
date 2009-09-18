@@ -1,0 +1,15 @@
+C:\Users\Kilian\Documents\Visual Studio 2008\Projects\Ktype\Ktype\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kilian\Documents\Visual Studio 2008\Projects\Ktype\Ktype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kilian\Documents\Visual Studio 2008\Projects\Ktype\Ktype\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\Kilian\Documents\Visual Studio 2008\Projects\Ktype\Ktype\bin\x86\Debug\Content\Images\bg1.xnb
+C:\Users\Kilian\Documents\Visual Studio 2008\Projects\Ktype\Ktype\bin\x86\Debug\Content\Images\movingstars.xnb
+C:\Users\Kilian\Documents\Visual Studio 2008\Projects\Ktype\Ktype\bin\x86\Debug\Content\Images\playerbullet.xnb
+C:\Users\Kilian\Documents\Visual Studio 2008\Projects\Ktype\Ktype\bin\x86\Debug\Content\Images\enemybullet.xnb
+C:\Users\Kilian\Documents\Visual Studio 2008\Projects\Ktype\Ktype\bin\x86\Debug\Content\Images\powerup.xnb
+C:\Users\Kilian\Documents\Visual Studio 2008\Projects\Ktype\Ktype\bin\x86\Debug\Content\Images\player.xnb
+C:\Users\Kilian\Documents\Visual Studio 2008\Projects\Ktype\Ktype\bin\x86\Debug\Content\Images\enemy.xnb
+C:\Users\Kilian\Documents\Visual Studio 2008\Projects\Ktype\Ktype\bin\x86\Debug\Content\Images\enemy2.xnb
+C:\Users\Kilian\Documents\Visual Studio 2008\Projects\Ktype\Ktype\bin\x86\Debug\Ktype.exe
+C:\Users\Kilian\Documents\Visual Studio 2008\Projects\Ktype\Ktype\bin\x86\Debug\Ktype.pdb
+C:\Users\Kilian\Documents\Visual Studio 2008\Projects\Ktype\Ktype\obj\x86\Debug\Ktype.exe
+C:\Users\Kilian\Documents\Visual Studio 2008\Projects\Ktype\Ktype\obj\x86\Debug\Ktype.pdb

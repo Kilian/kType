@@ -1,0 +1,9 @@
+Content\Fonts\Arial.xnb
+Content\Images\bg1.xnb
+Content\Images\movingstars.xnb
+Content\Images\playerbullet.xnb
+Content\Images\enemybullet.xnb
+Content\Images\powerup.xnb
+Content\Images\player.xnb
+Content\Images\enemy.xnb
+Content\Images\enemy2.xnb

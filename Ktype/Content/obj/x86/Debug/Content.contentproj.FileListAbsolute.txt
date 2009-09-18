@@ -1,0 +1,2 @@
+C:\Users\Kilian\Documents\Visual Studio 2008\Projects\AnimatedSprites\AnimatedSprites\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kilian\Documents\Visual Studio 2008\Projects\Ktype\Ktype\Content\obj\x86\Debug\ResolveAssemblyReference.cache
